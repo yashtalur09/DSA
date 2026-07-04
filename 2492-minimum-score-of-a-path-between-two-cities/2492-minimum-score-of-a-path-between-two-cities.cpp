@@ -1,16 +1,4 @@
 class Solution {
-    void dfs(int node,unordered_map<int,vector<vector<int>>> &adj,vector<int> &vis,int &ans){
-        vis[node]=1;
-        for(auto it:adj[node]){
-            int adjnode=it[0];
-            int cost=it[1];
-            ans=min(ans,cost);
-            if(!vis[adjnode]){
-                
-                dfs(adjnode,adj,vis,ans);
-            }
-        }
-    }
 public:
     int minScore(int n, vector<vector<int>>& roads) {
         int ans=INT_MAX;
@@ -23,7 +11,27 @@ public:
             adj[u].push_back({v,cost});
             adj[v].push_back({u,cost});
         }
-        dfs(1,adj,vis,ans);
+        queue<pair<int,int>> q;
+        for(auto temp:adj[1]){
+            q.push({temp[0],temp[1]});
+            vis[temp[0]]=1;
+        }
+        
+        vis[1]=1;
+        while(!q.empty()){
+            auto it=q.front();
+            int node=it.first;
+            int cost=it.second;
+            q.pop();
+            
+            for(auto it:adj[node]){
+                ans=min(ans,it[1]);
+                if(!vis[it[0]]){
+                    q.push({it[0],it[1]});
+                    vis[it[0]]=1;
+                }
+            }
+        }
         return ans;
     }
 };
