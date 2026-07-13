@@ -14,7 +14,11 @@ public:
             }
             int ld=temp%10;
             if(ld+1<=9){
-                q.push(temp*10+(ld+1));
+                int next=temp*10+(ld+1);
+                if(next<=high){
+                    q.push(next);
+                }
+                
             }
         }
         return ans;
