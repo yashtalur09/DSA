@@ -95,4 +95,8 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashtalur09/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/yashtalur09/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
