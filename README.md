@@ -7,6 +7,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
+| [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashtalur09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashtalur09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -122,6 +124,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
