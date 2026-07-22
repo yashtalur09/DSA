@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashtalur09/DSA/tree/master/1288-remove-covered-intervals) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/yashtalur09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -136,10 +138,15 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yashtalur09/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashtalur09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yashtalur09/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashtalur09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
