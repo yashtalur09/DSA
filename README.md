@@ -72,6 +72,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtalur09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtalur09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashtalur09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtalur09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
