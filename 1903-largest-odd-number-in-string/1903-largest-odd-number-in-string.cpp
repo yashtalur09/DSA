@@ -1,18 +1,12 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
-        string ans="";
-        int ind=-1;
-        for(int i=num.size()-1;i>=0;i--){
-            int n = stoi(string(1, num[i]));
-            if(n%2==1){
-                ind=i;
-                break;
+        int n=num.size();
+        for(int i=n-1;i>=0;i--){
+            if(num[i]=='1'||num[i]=='3'||num[i]=='5'||num[i]=='7'||num[i]=='9'){
+                return num.substr(0,i+1);
             }
         }
-        for(int i=0;i<=ind;i++){
-            ans+=num[i];
-        }
-        return ans;
+        return "";
     }
 };
