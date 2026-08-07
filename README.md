@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtalur09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashtalur09/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Game Theory
 |  |
 | ------- |
