@@ -17,10 +17,9 @@ public:
         while(cur!=NULL){
             ListNode* temp2=cur->next;
             cur->next=temp1;
-            head=cur;
             temp1=cur;
             cur=temp2;
         }
-        return head;
+        return temp1;
     }
 };
