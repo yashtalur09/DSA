@@ -22,24 +22,24 @@ public:
             count++;
             temp=temp->next;
         }
-        if(count==2 && n==1){
-            head->next=NULL;
-            return head;
-        }
-        if(count==2 && n==2){
-            head=head->next;
-            return head;
-        }
+        // if(count==2 && n==1){
+        //     head->next=NULL;
+        //     return head;
+        // }
+        // if(count==2 && n==2){
+        //     head=head->next;
+        //     return head;
+        // }
         temp=head;
         int node=count-n;
         if(node==0){
             head=head->next;
             return head;
         }
-        int i=0;
-        while(i<node-1){
+        while(node){
+            node--;
+            if(node==0) break;
             temp=temp->next;
-            i++;
         }
         if(temp!=NULL && temp->next!=NULL)temp->next=temp->next->next;
         return head;
