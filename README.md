@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashtalur09/DSA/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
@@ -152,6 +153,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashtalur09/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtalur09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
