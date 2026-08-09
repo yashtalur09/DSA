@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
+| [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtalur09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashtalur09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashtalur09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashtalur09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -72,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
