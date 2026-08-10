@@ -21,6 +21,7 @@
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtalur09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashtalur09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtalur09/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtalur09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashtalur09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -139,6 +141,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/yashtalur09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashtalur09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashtalur09/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtalur09/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
