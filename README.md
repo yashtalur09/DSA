@@ -30,6 +30,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashtalur09/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/yashtalur09/DSA/tree/master/3731-find-missing-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashtalur09/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/yashtalur09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashtalur09/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashtalur09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -237,6 +240,7 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtalur09/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashtalur09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Linked List
 |  |
 | ------- |
