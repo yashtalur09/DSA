@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashtalur09/DSA/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
@@ -238,6 +239,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtalur09/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashtalur09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashtalur09/DSA/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
