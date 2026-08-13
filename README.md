@@ -18,6 +18,7 @@
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashtalur09/DSA/tree/master/1288-remove-covered-intervals) |
@@ -69,6 +70,7 @@
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yashtalur09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -89,6 +91,7 @@
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
