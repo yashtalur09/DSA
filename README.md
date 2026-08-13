@@ -85,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
@@ -164,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtalur09/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yashtalur09/DSA/tree/master/0316-remove-duplicate-letters) |
