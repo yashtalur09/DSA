@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashtalur09/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/yashtalur09/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashtalur09/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
@@ -104,6 +105,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashtalur09/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtalur09/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -131,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
