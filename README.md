@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/yashtalur09/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashtalur09/DSA/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/yashtalur09/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/yashtalur09/DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashtalur09/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yashtalur09/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
