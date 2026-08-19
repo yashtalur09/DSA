@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/yashtalur09/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashtalur09/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/yashtalur09/DSA/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/yashtalur09/DSA/tree/master/0414-third-maximum-number) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
+| [0152-maximum-product-subarray](https://github.com/yashtalur09/DSA/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
