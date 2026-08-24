@@ -28,6 +28,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtalur09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashtalur09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -101,6 +102,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -162,6 +164,7 @@
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/yashtalur09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashtalur09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashtalur09/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -283,16 +287,19 @@
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 ## Bucket Sort
 |  |
 | ------- |
