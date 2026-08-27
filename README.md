@@ -128,6 +128,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/yashtalur09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashtalur09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -353,14 +354,17 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
