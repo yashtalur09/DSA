@@ -47,6 +47,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashtalur09/DSA/tree/master/0547-number-of-provinces) |
@@ -125,6 +126,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/yashtalur09/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashtalur09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
@@ -345,6 +347,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -353,5 +356,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
