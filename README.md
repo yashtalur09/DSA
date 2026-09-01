@@ -356,12 +356,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -369,6 +371,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/yashtalur09/DSA/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
