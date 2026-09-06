@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/yashtalur09/DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/yashtalur09/DSA/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/yashtalur09/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/yashtalur09/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtalur09/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yashtalur09/DSA/tree/master/0316-remove-duplicate-letters) |
