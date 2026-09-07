@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashtalur09/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/yashtalur09/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/yashtalur09/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/yashtalur09/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashtalur09/DSA/tree/master/0040-combination-sum-ii) |
@@ -193,6 +194,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashtalur09/DSA/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/yashtalur09/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/yashtalur09/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/yashtalur09/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -384,4 +386,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yashtalur09/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
