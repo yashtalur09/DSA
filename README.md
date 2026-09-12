@@ -138,6 +138,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/yashtalur09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yashtalur09/DSA/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashtalur09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashtalur09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/yashtalur09/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -377,6 +378,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashtalur09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/yashtalur09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashtalur09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashtalur09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
