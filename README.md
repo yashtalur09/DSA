@@ -171,6 +171,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yashtalur09/DSA/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtalur09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/yashtalur09/DSA/tree/master/0836-rectangle-overlap) |
@@ -297,6 +298,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yashtalur09/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/yashtalur09/DSA/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashtalur09/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashtalur09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
