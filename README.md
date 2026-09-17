@@ -29,6 +29,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtalur09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +97,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashtalur09/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/yashtalur09/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -111,6 +113,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/yashtalur09/DSA/tree/master/3620-network-recovery-pathways) |
@@ -235,6 +238,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashtalur09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -357,6 +361,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashtalur09/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashtalur09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
