@@ -32,6 +32,7 @@
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashtalur09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +187,7 @@
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashtalur09/DSA/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/yashtalur09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -246,6 +248,7 @@
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashtalur09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -304,6 +307,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
+| [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtalur09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashtalur09/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
