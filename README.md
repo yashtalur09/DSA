@@ -182,6 +182,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/yashtalur09/DSA/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/yashtalur09/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/yashtalur09/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashtalur09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/yashtalur09/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
@@ -269,6 +270,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashtalur09/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashtalur09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashtalur09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -276,6 +278,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashtalur09/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashtalur09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
