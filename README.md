@@ -25,6 +25,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/yashtalur09/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/yashtalur09/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/yashtalur09/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yashtalur09/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/yashtalur09/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashtalur09/DSA/tree/master/1288-remove-covered-intervals) |
@@ -248,6 +249,7 @@
 | [0242-valid-anagram](https://github.com/yashtalur09/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/yashtalur09/DSA/tree/master/0575-distribute-candies) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yashtalur09/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
@@ -312,6 +314,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashtalur09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/yashtalur09/DSA/tree/master/0561-array-partition) |
+| [0992-subarrays-with-k-different-integers](https://github.com/yashtalur09/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashtalur09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -378,6 +381,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/yashtalur09/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashtalur09/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashtalur09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
