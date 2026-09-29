@@ -37,6 +37,7 @@
 | [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashtalur09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2615-sum-of-distances](https://github.com/yashtalur09/DSA/tree/master/2615-sum-of-distances) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashtalur09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/yashtalur09/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -241,6 +242,7 @@
 | [0410-split-array-largest-sum](https://github.com/yashtalur09/DSA/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/yashtalur09/DSA/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/yashtalur09/DSA/tree/master/1872-stone-game-viii) |
+| [2615-sum-of-distances](https://github.com/yashtalur09/DSA/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yashtalur09/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/yashtalur09/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/yashtalur09/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -258,6 +260,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/yashtalur09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashtalur09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/yashtalur09/DSA/tree/master/1512-number-of-good-pairs) |
+| [2615-sum-of-distances](https://github.com/yashtalur09/DSA/tree/master/2615-sum-of-distances) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashtalur09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashtalur09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashtalur09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
